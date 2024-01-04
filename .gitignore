@@ -1,0 +1,5 @@
+bak/
+bin/
+build/
+.vscode/
+test.cpp
